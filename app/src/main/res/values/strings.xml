@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="add_employee">ДОБАВИТЬ СОТРУДНИКА</string>
+    <string name="employees_list">Список сотрудников</string>
+    <string name="employee_info">Информация о сотруднике\n</string>
+    <string name="full_name">ФИО</string>
+    <string name="age">Возраст</string>
+    <string name="experience">Опыт работы</string>
+    <string name="save">Сохранить</string>
+    <string name="edit">Изменить</string>
+    <string name="employee_older_30">Сотрудники старше 30 лет</string>
+    <string name="show_report">ПОСМОТРЕТЬ ОТЧЁТ</string>
+</resources>
